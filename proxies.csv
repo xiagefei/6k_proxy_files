@@ -1,130 +1,56 @@
 ﻿IP地址,端口,TLS,数据中心,地区,城市,ASN,网络延迟
-101.32.247.126,725,true,SIN,Asia Pacific,Singapore,132203,171 ms
 101.32.10.244,10457,true,HKG,Asia Pacific,Hong Kong,132203,175 ms
-103.137.63.205,31564,true,TPE,Asia Pacific,Taipei,131642,179 ms
-103.115.44.87,49323,true,HKG,Asia Pacific,Hong Kong,138968,179 ms
-103.102.231.105,2053,true,CDG,Europe,Paris,16276,181 ms
-103.127.248.51,443,true,HKG,Asia Pacific,Hong Kong,24373,186 ms
-103.115.44.87,49322,true,HKG,Asia Pacific,Hong Kong,138968,186 ms
-103.133.178.229,26010,true,HKG,Asia Pacific,Hong Kong,138538,188 ms
-103.106.230.186,81,true,SYD,Oceania,Sydney,136258,191 ms
-103.118.40.118,42015,true,SIN,Asia Pacific,Singapore,976,191 ms
-103.137.212.47,8443,true,LAX,North America,Los Angeles,138968,195 ms
-103.102.231.127,2053,true,CDG,Europe,Paris,16276,202 ms
-103.102.231.103,2053,true,CDG,Europe,Paris,16276,206 ms
-103.102.231.6,2053,true,CDG,Europe,Paris,16276,207 ms
-103.102.231.115,2053,true,CDG,Europe,Paris,16276,209 ms
-103.102.231.8,2053,true,CDG,Europe,Paris,16276,227 ms
-103.102.228.113,443,true,AMS,Europe,Amsterdam,50053,229 ms
-103.102.231.59,2053,true,CDG,Europe,Paris,16276,231 ms
-103.102.231.76,2053,true,CDG,Europe,Paris,16276,232 ms
-103.102.231.129,2053,true,CDG,Europe,Paris,16276,233 ms
-103.102.231.133,2053,true,CDG,Europe,Paris,16276,234 ms
-103.102.231.227,2053,true,CDG,Europe,Paris,16276,235 ms
-103.15.90.134,49678,true,SIN,Asia Pacific,Singapore,45899,236 ms
-103.102.231.7,2053,true,CDG,Europe,Paris,16276,238 ms
-103.3.63.253,46683,true,SIN,Asia Pacific,Singapore,63949,245 ms
-103.102.231.148,2053,true,CDG,Europe,Paris,16276,245 ms
-103.102.231.72,2053,true,CDG,Europe,Paris,16276,256 ms
-103.102.231.218,2053,true,CDG,Europe,Paris,16276,257 ms
-103.102.231.248,2053,true,CDG,Europe,Paris,16276,259 ms
-103.102.231.66,2053,true,CDG,Europe,Paris,16276,263 ms
-103.102.231.233,2053,true,CDG,Europe,Paris,16276,263 ms
-103.102.231.42,2053,true,CDG,Europe,Paris,16276,263 ms
-103.102.231.118,2053,true,CDG,Europe,Paris,16276,264 ms
-103.170.72.120,25122,true,LAX,North America,Los Angeles,976,266 ms
-103.102.231.231,2053,true,CDG,Europe,Paris,16276,268 ms
-103.102.231.162,2053,true,CDG,Europe,Paris,16276,268 ms
-103.137.248.17,443,true,AMS,Europe,Amsterdam,216154,273 ms
-103.102.231.174,2053,true,CDG,Europe,Paris,16276,274 ms
-103.170.72.120,25111,true,LAX,North America,Los Angeles,976,278 ms
-103.106.1.211,443,true,AMS,Europe,Amsterdam,44477,288 ms
-103.13.208.242,443,true,LHR,Europe,London,210329,289 ms
-103.102.231.21,2053,true,CDG,Europe,Paris,16276,292 ms
-104.248.145.216,443,true,SIN,Asia Pacific,Singapore,14061,302 ms
-103.170.72.120,27051,true,LAX,North America,Los Angeles,976,304 ms
-103.98.149.96,58904,true,HKG,Asia Pacific,Hong Kong,135921,305 ms
-103.106.1.2,443,true,AMS,Europe,Amsterdam,44477,309 ms
-103.102.231.23,2053,true,CDG,Europe,Paris,16276,311 ms
-103.102.231.13,2053,true,CDG,Europe,Paris,16276,315 ms
-103.102.231.71,2053,true,CDG,Europe,Paris,16276,334 ms
-103.231.73.126,8443,true,RIX,Europe,Riga,44477,338 ms
-103.102.231.45,2053,true,CDG,Europe,Paris,16276,340 ms
-103.137.249.117,443,true,AMS,Europe,Amsterdam,216154,341 ms
-103.170.72.129,25122,true,LAX,North America,Los Angeles,976,348 ms
-103.102.231.64,2053,true,CDG,Europe,Paris,16276,353 ms
-103.102.231.215,2053,true,CDG,Europe,Paris,16276,353 ms
-103.102.231.137,2053,true,CDG,Europe,Paris,16276,355 ms
-103.170.72.129,27053,true,LAX,North America,Los Angeles,976,360 ms
-106.255.89.151,30078,true,ICN,Asia Pacific,Seoul,3786,361 ms
-103.170.72.129,27054,true,LAX,North America,Los Angeles,976,361 ms
-103.45.247.251,8443,true,AMS,Europe,Amsterdam,41436,362 ms
-106.244.68.249,50000,true,ICN,Asia Pacific,Seoul,3786,363 ms
-106.244.201.248,50000,true,ICN,Asia Pacific,Seoul,3786,363 ms
-103.90.75.141,2053,true,AMS,Europe,Amsterdam,216154,364 ms
-106.243.1.211,34046,true,ICN,Asia Pacific,Seoul,3786,366 ms
-103.102.231.89,2053,true,CDG,Europe,Paris,16276,368 ms
-103.102.231.232,2053,true,CDG,Europe,Paris,16276,371 ms
-106.253.198.210,50003,true,ICN,Asia Pacific,Seoul,3786,375 ms
-103.90.73.117,443,true,AMS,Europe,Amsterdam,216154,375 ms
-103.102.231.96,2053,true,CDG,Europe,Paris,16276,377 ms
-103.231.75.238,2053,true,IST,Europe,Istanbul,44477,377 ms
-103.102.231.189,2053,true,CDG,Europe,Paris,16276,380 ms
-103.45.247.251,2053,true,AMS,Europe,Amsterdam,41436,382 ms
-103.113.69.99,443,true,VNO,Europe,Vilnius,44477,384 ms
-103.113.69.46,443,true,VNO,Europe,Vilnius,44477,384 ms
-104.218.164.180,587,true,LHR,Europe,London,135377,385 ms
-103.102.231.32,2053,true,CDG,Europe,Paris,16276,387 ms
-103.45.247.134,443,true,AMS,Europe,Amsterdam,41436,388 ms
-106.240.106.61,32929,true,NRT,Asia Pacific,Tokyo,3786,389 ms
-103.102.231.48,2053,true,CDG,Europe,Paris,16276,390 ms
-103.90.75.41,8443,true,AMS,Europe,Amsterdam,216154,390 ms
-106.255.89.151,50000,true,ICN,Asia Pacific,Seoul,3786,391 ms
-103.102.231.147,2053,true,CDG,Europe,Paris,16276,392 ms
-103.82.101.179,443,true,CDG,Europe,Paris,56630,394 ms
-103.102.231.50,2053,true,CDG,Europe,Paris,16276,395 ms
-103.90.75.41,2053,true,AMS,Europe,Amsterdam,216154,396 ms
-103.215.218.33,8080,true,IST,Europe,Istanbul,202422,397 ms
-106.240.106.61,38937,true,NRT,Asia Pacific,Tokyo,3786,397 ms
-103.102.231.236,2053,true,CDG,Europe,Paris,16276,397 ms
-103.231.73.153,443,true,RIX,Europe,Riga,44477,397 ms
-103.45.245.208,8443,true,MAD,Europe,Madrid,36007,398 ms
-106.253.198.210,30053,true,ICN,Asia Pacific,Seoul,3786,398 ms
-103.102.231.124,2053,true,CDG,Europe,Paris,16276,399 ms
-103.6.207.108,8080,true,CGK,Asia Pacific,Jakarta,58503,399 ms
-106.251.70.75,50000,true,ICN,Asia Pacific,Seoul,3786,400 ms
-103.102.231.237,2053,true,CDG,Europe,Paris,16276,401 ms
-103.45.247.67,443,true,AMS,Europe,Amsterdam,41436,407 ms
-103.45.245.208,2053,true,MAD,Europe,Madrid,36007,408 ms
-103.97.88.187,443,true,AMS,Europe,Amsterdam,56630,410 ms
-103.45.245.201,59889,true,MAD,Europe,Madrid,36007,410 ms
-103.102.231.145,2053,true,CDG,Europe,Paris,16276,411 ms
-103.102.231.169,2053,true,CDG,Europe,Paris,16276,412 ms
-103.167.234.131,2053,true,WAW,Europe,Warsaw,48014,412 ms
-103.167.234.131,8443,true,WAW,Europe,Warsaw,48014,413 ms
-103.102.231.53,2053,true,CDG,Europe,Paris,16276,414 ms
-103.102.231.142,2053,true,CDG,Europe,Paris,16276,416 ms
-103.45.245.201,29016,true,MAD,Europe,Madrid,36007,420 ms
-103.102.231.16,2053,true,CDG,Europe,Paris,16276,423 ms
-103.102.231.140,2053,true,CDG,Europe,Paris,16276,426 ms
-104.128.190.209,443,true,LHR,Europe,London,42831,433 ms
-103.102.231.250,2053,true,CDG,Europe,Paris,16276,433 ms
-103.102.231.186,2053,true,CDG,Europe,Paris,16276,434 ms
-103.102.231.19,2053,true,CDG,Europe,Paris,16276,435 ms
-103.102.231.199,2053,true,CDG,Europe,Paris,16276,436 ms
-103.102.231.54,2053,true,CDG,Europe,Paris,16276,437 ms
-104.128.190.65,443,true,LHR,Europe,London,42831,445 ms
-103.102.231.164,2053,true,CDG,Europe,Paris,16276,447 ms
-103.102.231.204,2053,true,CDG,Europe,Paris,16276,449 ms
-103.102.231.173,2053,true,CDG,Europe,Paris,16276,455 ms
-103.102.231.188,2053,true,CDG,Europe,Paris,16276,460 ms
-103.102.231.15,2053,true,CDG,Europe,Paris,16276,461 ms
-103.102.231.244,2053,true,CDG,Europe,Paris,16276,462 ms
-103.102.231.125,2053,true,CDG,Europe,Paris,16276,462 ms
-103.102.231.202,2053,true,CDG,Europe,Paris,16276,464 ms
-103.102.231.121,2053,true,CDG,Europe,Paris,16276,464 ms
-103.102.231.194,2053,true,CDG,Europe,Paris,16276,467 ms
-103.102.231.138,2053,true,CDG,Europe,Paris,16276,484 ms
-118.130.187.163,30024,true,ICN,Asia Pacific,Seoul,3786,649 ms
-118.46.29.202,30052,true,ICN,Asia Pacific,Seoul,4766,724 ms
-118.45.241.209,30039,true,ICN,Asia Pacific,Seoul,4766,728 ms
+103.133.178.229,26010,true,HKG,Asia Pacific,Hong Kong,138538,181 ms
+103.137.63.205,31564,true,TPE,Asia Pacific,Taipei,131642,185 ms
+101.32.247.126,725,true,SIN,Asia Pacific,Singapore,132203,199 ms
+103.127.248.51,443,true,HKG,Asia Pacific,Hong Kong,24373,206 ms
+103.102.231.124,2053,true,CDG,Europe,Paris,16276,209 ms
+103.102.231.118,2053,true,CDG,Europe,Paris,16276,210 ms
+103.102.231.105,2053,true,CDG,Europe,Paris,16276,210 ms
+103.118.40.118,42015,true,SIN,Asia Pacific,Singapore,976,220 ms
+103.102.231.129,2053,true,CDG,Europe,Paris,16276,221 ms
+103.102.231.103,2053,true,CDG,Europe,Paris,16276,227 ms
+103.102.231.115,2053,true,CDG,Europe,Paris,16276,228 ms
+103.102.228.113,443,true,AMS,Europe,Amsterdam,50053,230 ms
+103.102.231.76,2053,true,CDG,Europe,Paris,16276,230 ms
+103.102.231.137,2053,true,CDG,Europe,Paris,16276,232 ms
+103.102.231.140,2053,true,CDG,Europe,Paris,16276,235 ms
+103.102.231.215,2053,true,CDG,Europe,Paris,16276,245 ms
+103.102.231.121,2053,true,CDG,Europe,Paris,16276,251 ms
+103.102.231.199,2053,true,CDG,Europe,Paris,16276,252 ms
+103.102.231.133,2053,true,CDG,Europe,Paris,16276,253 ms
+103.102.231.147,2053,true,CDG,Europe,Paris,16276,255 ms
+103.102.231.42,2053,true,CDG,Europe,Paris,16276,255 ms
+103.102.231.13,2053,true,CDG,Europe,Paris,16276,258 ms
+103.102.231.218,2053,true,CDG,Europe,Paris,16276,268 ms
+103.102.231.125,2053,true,CDG,Europe,Paris,16276,276 ms
+103.15.90.134,49678,true,SIN,Asia Pacific,Singapore,45899,282 ms
+103.102.231.174,2053,true,CDG,Europe,Paris,16276,282 ms
+103.102.231.142,2053,true,CDG,Europe,Paris,16276,283 ms
+103.102.231.194,2053,true,CDG,Europe,Paris,16276,284 ms
+103.3.63.253,46683,true,SIN,Asia Pacific,Singapore,63949,289 ms
+103.102.231.127,2053,true,CDG,Europe,Paris,16276,293 ms
+103.102.231.189,2053,true,CDG,Europe,Paris,16276,306 ms
+103.102.231.138,2053,true,CDG,Europe,Paris,16276,307 ms
+103.102.231.162,2053,true,CDG,Europe,Paris,16276,307 ms
+103.102.231.8,2053,true,CDG,Europe,Paris,16276,311 ms
+103.102.231.21,2053,true,CDG,Europe,Paris,16276,312 ms
+103.160.100.205,29844,true,NRT,Asia Pacific,Tokyo,151487,320 ms
+103.106.228.126,2053,true,NRT,Asia Pacific,Tokyo,136258,330 ms
+103.102.231.204,2053,true,CDG,Europe,Paris,16276,337 ms
+103.102.231.232,2053,true,CDG,Europe,Paris,16276,338 ms
+103.102.231.202,2053,true,CDG,Europe,Paris,16276,339 ms
+103.20.199.166,6666,true,NRT,Asia Pacific,Tokyo,147293,341 ms
+103.102.231.72,2053,true,CDG,Europe,Paris,16276,346 ms
+103.102.231.186,2053,true,CDG,Europe,Paris,16276,347 ms
+103.102.231.6,2053,true,CDG,Europe,Paris,16276,356 ms
+103.102.231.227,2053,true,CDG,Europe,Paris,16276,365 ms
+103.102.231.148,2053,true,CDG,Europe,Paris,16276,369 ms
+103.102.231.7,2053,true,CDG,Europe,Paris,16276,372 ms
+103.102.231.71,2053,true,CDG,Europe,Paris,16276,389 ms
+103.102.231.231,2053,true,CDG,Europe,Paris,16276,404 ms
+103.102.231.23,2053,true,CDG,Europe,Paris,16276,415 ms
+103.102.231.164,2053,true,CDG,Europe,Paris,16276,416 ms
+103.102.231.45,2053,true,CDG,Europe,Paris,16276,434 ms
+119.8.238.73,81,true,HKG,Asia Pacific,Hong Kong,136907,937 ms
+119.194.63.100,30067,true,ICN,Asia Pacific,Seoul,4766,979 ms
