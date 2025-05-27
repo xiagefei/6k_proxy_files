@@ -2,7 +2,7 @@ name: Sync Upstream With Conflict Auto-Resolve
 
 on:
   schedule:
-    - cron: '0 */2 * * *'  # 每2小时执行
+    - cron: '0 */2 * * *'  # 每6小时执行
   workflow_dispatch:
 
 jobs:
@@ -25,15 +25,15 @@ jobs:
           git remote add upstream https://github.com/6Kmfi6HP/proxy_files.git
           git fetch upstream
 
-      - name: Merge upstream/main into main (auto-resolve conflicts)
+      - name: Merge upstream/main (auto-resolve conflicts, allow unrelated histories)
         run: |
           git checkout main
 
-          # Try merge; if conflict, resolve in favor of upstream
-          if ! git merge upstream/main --no-edit; then
+          # Try merge with --allow-unrelated-histories
+          if ! git merge upstream/main --no-edit --allow-unrelated-histories; then
             echo "Conflict occurred. Resolving in favor of upstream..."
 
-            # List conflicted files
+            # Resolve all conflicts using upstream version
             for file in $(git diff --name-only --diff-filter=U); do
               echo "Resolving $file from upstream..."
               git checkout --theirs -- "$file"
