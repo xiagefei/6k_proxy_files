@@ -2,7 +2,7 @@ name: Sync Upstream With Conflict Auto-Resolve
 
 on:
   schedule:
-    - cron: '0 */2 * * *'  # 每6小时执行
+    - cron: '0 */4 * * *'  # 每4小时执行
   workflow_dispatch:
 
 jobs:
